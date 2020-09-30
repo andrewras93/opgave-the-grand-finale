@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/andrewras93/opgave-the-grand-finale/issues"
   },
-  "homepage": "https://github.com/andrewras93/opgave-the-grand-finale#readme"
+  "homepage": "https://github.com/andrewras93/opgave-the-grand-finale#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
 }
